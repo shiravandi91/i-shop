@@ -1,0 +1,28 @@
+.image{
+border: 1px solid #aaa;
+padding: 10px;
+border-radius: 5px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.properties{
+    border-top: 2px solid black;
+    /* border:1px solid #aaa; */
+
+}
+.order{
+    border:1px solid #aaa;
+    background-color: rgb(213, 213, 213);
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn-add-to-cart{
+   width: 200px;
+   background-color: brown; 
+   border-radius: 5px;
+   height: 30px;
+   border: none;
+   color: #fff;
+}

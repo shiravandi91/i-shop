@@ -1,0 +1,187 @@
+
+footer{
+   width: 95%;
+margin:50px auto 10px auto; 
+}
+.footer-top{
+display: flex;
+justify-content: space-between;
+
+}
+
+.digi-logo{
+    width: 100px;
+}
+.up-logo{
+    width:15px;
+    margin-right: 6px;
+    opacity:50%;
+}
+.up{
+    display: flex;
+    padding: 10px;
+    border:1px solid rgb(203, 203, 203);
+    border-radius: 5px;
+    color: darkgrey;
+}
+.footer-top2{
+    text-align: right;
+    color: rgb(111, 111, 111);
+    margin-top: 10px;
+    font-size: 14px;
+}
+.services{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    font-size: 12px;
+    margin-bottom: 50px;
+}
+.footer-links{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-links li{
+      margin-bottom: 15px; 
+}
+.footer-links a{
+    color:dimgrey;
+    font-size: 14px;
+}
+.footer-social{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.footer-social img{
+    width: 30px;
+}
+.email{
+    width: 300px;
+   
+    border-radius: 5px;
+    /* margin-right: 10px; */
+    border: 1px solid #f0f0f1;
+    background-color:#f0f0f1;
+    padding: 5px;
+    color: rgb(124, 124, 124);
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sabt{
+  
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #f0f0f1;
+    background-color:#f0f0f1;
+    padding: 15px;
+    color: rgb(124, 124, 124);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.email-wrapper{
+    display: flex;
+}
+.footer-item{
+    text-align: right;
+}
+
+.footer-download-app{
+    background-color: #3c4b6d;
+    border-radius: 5px;
+    height: 50px;
+}
+
+.footer-download-app{
+    display: flex;
+    justify-content: space-between;
+    padding:5px;
+    align-items: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+    margin: 50px 0;
+}
+.app-text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.app-box{
+    /* background-color: white; */
+    /* padding: 3px; */
+    border-radius: 5px;
+    margin-right: 10px;
+    height:40px;
+}
+.app-box img{
+   
+}
+.app-other{
+    height: 40px;
+     border-radius: 5px;
+    margin-right: 8px;
+background-color: #fff;
+box-sizing: border-box;
+display: flex;
+justify-content: center;
+
+}
+.app-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sabt-logos{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 2em;
+    text-align: right;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+.sabt-logos-box{
+    padding: 10px;
+    border:1px solid rgb(196, 195, 195);
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.sabt-logos-box img{
+    width: 75px;
+    height: 75px;
+
+}
+.sabt-logos-wrapper{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.sabt-logos__text{
+    color: dimgray;
+}
+hr{
+    margin: 30px 0;
+    border-top: 1px solid rgb(180, 180, 180);
+}
+.digikala-jet{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+.digikala-jet div{
+    background-color: rgb(207, 206, 206);
+    padding: 30px 60px;
+    border:1px solid rgb(137, 137, 137);
+    flex-grow: 1;
+}
+ul{
+    margin: 0;
+    padding: 0
+}
+li{
+    list-style: none;
+    text-align: right;
+ 
+  
+}
+

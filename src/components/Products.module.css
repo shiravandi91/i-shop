@@ -1,0 +1,26 @@
+.products-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.sorted-ul{
+    margin: 20px auto;
+  width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sorted-ul img{
+    width: 20px;
+}
+.sorted-ul li{
+/* margin-right: 10px;
+margin-left: 10px; */
+}
+input{
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px 0;
+}

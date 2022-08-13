@@ -1,0 +1,51 @@
+.product-box{
+    padding:10px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 5px;
+    flex-basis: 200px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid #aaa;
+
+}
+
+.product-name{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+    font-weight: bold;
+    margin: 8px 0;
+}
+.plus-basket{
+    color: red;
+    border:1px solid red;
+    border-radius: 50%;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+.price{
+  display:flex;
+  justify-content:space-between;
+  align-Items:flex-start;
+  font-size: 14px;
+}
+.discountedPrice-percent{
+    padding:5px 3px;
+    background-color: rgb(222, 34, 34);
+    border-radius: 3px;
+    color: #fff;
+    font-size: 12px;
+
+}
+.discountedPrice{
+    color: #999;
+    text-decoration: line-through;
+}

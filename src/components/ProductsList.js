@@ -1,0 +1,11 @@
+const ProductsList=[
+    {id:1,name:"تیشرت مردانه مدل آریا",price:5_000_000,discountedPrice:100_000,image:"https://dkstatics-public.digikala.com/digikala-products/bb2fc8247ce24e213b008b7ee977be032036996b_1642448030.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:2,name:"هندزفری بلوتوثی نوکیا",price:3_000_000,discountedPrice:220_000,image:"https://dkstatics-public.digikala.com/digikala-products/196807b53db0ecf58fc879fcab5020b255b2d27a_1634376218.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:3,name:"تلویزیون ال ای دی سامسونگ",price:7_000_000,discountedPrice:5_500_000,image:"https://dkstatics-public.digikala.com/digikala-products/a9cd3bd6e24a63e018b45928e23ddd3f188907af_1606128175.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:4,name:"گوشی موبایل موتورولا مدل Moto E20 XT2155-8 دو سیم کارت ظرفیت 32گیگابایت و 2 گیگابایت رم ",price:6_000_000,discountedPrice:300_000,image:"https://dkstatics-public.digikala.com/digikala-products/2c3352e340b34feeaf9a5df19e4f4bad918b9cd5_1641804298.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:5,name:"ادو پرفیوم مردانه نیفتی مدل ساواج دیور حجم 100 میلی لیتر",price:1_000_000,discountedPrice:420_000,image:"https://dkstatics-public.digikala.com/digikala-products/e607223d34d5055f80485e7440df6b60eec3b626_1642630147.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:6,name:"نگهداره گوشی موبالی لیتو",price:2_000_000,discountedPrice:120000,image:"https://dkstatics-public.digikala.com/digikala-products/1093f24578fa10feb209fa066a97d6367cc46640_1653915325.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+    {id:7,name:"ماشین لباسشویی اینترنشنال آنیل مدل WM7000 ظرفیت 6 کیلوگرم",price:4_000_000,discountedPrice:20000,image:"https://dkstatics-public.digikala.com/digikala-products/a9dec595744fb914dbfe8192697fdb586a344cc8_1607946293.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"},
+  ]
+
+export default ProductsList
